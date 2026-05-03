@@ -18,7 +18,7 @@ SERVO_PIN = 18
 MAX_SPEED = 0.4
 THROTTLE_DEADBAND = 0.02
 THROTTLE_SMOOTHING = 0.05
-X_BUTTON_INDEX = 2
+X_BUTTON_INDEX = 0
 
 # Steering smoothing only. Throttle remains manual.
 BASE_ALPHA = 0.12
