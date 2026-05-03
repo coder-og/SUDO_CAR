@@ -29,4 +29,5 @@ STEP 4:
 STEP 5:
       copy the #####.tflite file on the pi where autonomous_drivw.py lives.
 STEP 6
-      run autonomous_drive.py 
+      run autonomous_drive.py.
+      controll throttle manually.
